@@ -9,6 +9,7 @@ export default function Sender({ onSend }) {
       setMessage("");
     }
   };
+  
 
   return (
     <div className="p-3 bg-gray-100 rounded-2xl shadow">
